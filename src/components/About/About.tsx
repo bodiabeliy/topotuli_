@@ -15,7 +15,7 @@ const About = () => {
 
           <div className="sm:p-5">
             <p className="aboutSectionDescriptoion bg-mainYellow sm:p-[15px] rounded-[20px] text-justify sm:text-[24px] lg:text-[28px] lg:leading-[40px] mt-3 sm:overflow-y-scroll lg:overflow-y-auto">
-            Вcім привіт, мене звати Інна Бєлашенок - я засновниця корекційно-навчального простору <b className="">"Веселі топотулі"</b>. <br /> <br />
+            Вcім привіт, мене звати Інна Бєлашенок - я засновниця корекційно-навчального простору <b className="">Веселі топотулі</b>. <br /> <br />
             За плечима <b>15-річний</b> досвід та практика у сферах:
             <ol className="p-3 text-start">
               <li>1) освіти з нормотиповими дітьми;</li>
