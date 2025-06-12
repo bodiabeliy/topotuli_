@@ -52,7 +52,7 @@ const Banner = () => {
         <div className="relative sm:block lg:hidden mt-[130%]">
          <div className="bannerTitle pl-0">
           <p className="sm:text-center lg:text-left sm:text-2xl lg:text-5xl text-white font-grotesk  z-[9999]">
-          <span className="text-mainYellow">"Веселі топотулі"</span> - початок успіху для вашої дитини!
+          <span className="text-mainYellow">еселі топотулі</span> - початок успіху для вашої дитини!
           </p>
           
         </div>
