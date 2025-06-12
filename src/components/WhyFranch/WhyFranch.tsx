@@ -26,11 +26,11 @@ const WhyInduvidual = () => {
       <div className="relative relative sm:bg-white lg:bg-green">
         <div className="WhyInduvidualWrapper relative w-full  flex justify-center flex flex-col m-auto">
         <Image
-            className="absolute sm:left-0 sm:top-[35px] lg:left-[15%] lg:top-[0%] sm:scale-[.65] lg:scale-50"
+            className="absolute sm:left-0 sm:top-[44px] lg:left-[15%] lg:top-[0%] sm:scale-[.65] lg:scale-50"
             src={shapedText}
             alt={""}
           />
-           <p className="sm:max-w-auto lg:w-[800px] sm:text-center lg:text-left sm:text-2xl lg:text-5xl sm:font-grotesk lg:font-monterchi uppercase z-[9999] sm:mt-[25px]  lg:mt-0 sm:ml-0 lg:ml-[150px] sm:max-w-[390px] lg:max-w-auto">
+          <p className="sm:max-w-auto lg:w-[800px] sm:text-center lg:text-left sm:text-[26px] lg:text-5xl sm:font-grotesk lg:font-monterchi uppercase z-[9999] sm:mt-[25px]  lg:mt-0 sm:ml-0 lg:ml-[150px]">
           Що отримаєте на <span className="text-white sm:ml-0 lg:ml-[40%]">групових?</span>
           </p>
           <div className="mt-5 sm:flex lg:block  lg:ml-0">

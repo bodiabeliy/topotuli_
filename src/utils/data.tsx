@@ -52,19 +52,19 @@ export const speakersList =[
 export const cardsList = [
     {title:"Персональний підхід", link:Card1, description:"Кожна дитина - це неповторність яка має свої особливі грані", isEvenNumber:false},
     {title:"Практичне використання", link:Card2, description:"Успіхи можна побачити вже на 1-му місяці", isEvenNumber:true},
-    {title:"Інтеграція в соціумі", link:Card3, description:"Легке навчання та спілкування у неформальній формі", isEvenNumber:false},
+    {title:"Інтеграція в соціумі", link:Card3, description:"Легкість спілкування у неформальній формі", isEvenNumber:false},
 ]
 
 export const engState = [
-    {title:"1. Основна мова в багатьох країнах світу", link:flower, isEvenNumber:false},
-    {title:`2. Відчиняє двері до більш високих посад і кращих зарплат`, link:sun, isEvenNumber:true},
-    {title:"3. Дозволяє насолоджуватися творами, фільмами та музикою в оригіналі ", link:mammy, isEvenNumber:false},
+    {title:"1. Персональний підхід до потреб та здібностей дитини", link:flower, isEvenNumber:false},
+    {title:`2. Індивідуальний графік занять, зручний для батьків`, link:sun, isEvenNumber:true},
+    {title:"3. Доступ до різноманітних ігрових та навчальних матеріалів ", link:mammy, isEvenNumber:false},
 ]
 
 export const frState = [
-    {title:"1. Спілкуються на всіх континентах.", link:cubes, isEvenNumber:false},
-    {title:`2. Займає п'яте місце у світі за кількістю носіїв серед усіх мов`, link:sun, isEvenNumber:true},
-    {title:"3. Відкриває можливості для навчання в престижних університетах Франції", link:boy, isEvenNumber:false},
+    {title:"1. Соціалізація та взаємодія з однолітками", link:cubes, isEvenNumber:false},
+    {title:`2. Розвиток навичок співпраці та комунікації`, link:sun, isEvenNumber:true},
+    {title:"3. Підтримка та обмін досвідом між батьками під час занять", link:boy, isEvenNumber:false},
 ]
 
 export const reelsList = [
@@ -86,23 +86,23 @@ export const reelsList = [
 export const priceEngList =[
     {
         name:"Перші кроки",
-        desciption:"Урок з напарником з однаковим рівнем ",
-        options:["1 заняття - 60 хвилин", " 8 занять/місяць", "Індивідуальний кабінет на платформі", " Час занять узгоджуємо "],
-        price:"3600",
+        desciption:"Урок-діагностика",
+        options:["1 заняття - 45 хвилин", " 8 занять/місяць", " Час занять узгоджуємо "],
+        price:"2800",
         isEvenNumber:false
     },
     {
         name:"Бадьорий старт",
-        desciption:"Урок на одинці зі мною",
-        options:["1 заняття - 60 хвилин", " 8 занять/місяць", "Індивідуальний кабінет на платформі", " Власний графік  навчання "],
-        price:"5000",
+        desciption:"Інтеграційний урок",
+        options:["1 заняття - 45 хвилин", " 8 занять/місяць", "Індивідуальні матеріали", " Власний графік  навчання "],
+        price:"3600",
         isEvenNumber:true
     },
     {
         name:"Маминий дослідник",
-        desciption:"Група 4-6 осіб (A0-C1)",
-        options:["1 заняття - 80  хвилин", " 8 занять/місяць", "Індивідуальний кабінет на платформі", " Час занять узгоджуємо "],
-        price:"2800",
+        desciption:"Група 4-6 дітей",
+        options:["1 заняття - 40  хвилин", " 8 занять/місяць", "Індивідуальні матеріали", "Доступ до ексклюзиву",  "Час занять узгоджуємо "],
+        price:"5000",
         isEvenNumber:false
     }
 ]
@@ -110,23 +110,23 @@ export const priceEngList =[
 export const priceFrList =[
     {
         name:"Перші кроки",
-        desciption:"Урок з напарником з однаковим рівнем ",
+        desciption:"Урок з дитиною однакового рівня ",
         options:["1 заняття - 60 хвилин", " 8 занять/місяць", " Час занять узгоджуємо "],
-        price:"3600",
+        price:"2500",
         isEvenNumber:false
     },
     {
         name:"Бадьорий старт",
-        desciption:"Урок на одинці зі мною",
-        options:["1 заняття - 60 хвилин", " 8 занять/місяць", "Безліч матеріалів", " Власний графік  навчання "],
-        price:"5000",
+        desciption:"Урок-діагностика",
+        options:["1 заняття - 40 хвилин", " 8 занять/місяць", "Індивідуальні матеріали", " Власний графік  навчання "],
+        price:"3000",
         isEvenNumber:true
     },
     {
         name:"Маминий дослідник",
-        desciption:"Група 4-6 осіб (A0-C1)",
-        options:["1 заняття - 80  хвилин", " 8 занять/місяць", " Час занять узгоджуємо "],
-        price:"2800",
+        desciption:"Група 4-6 дітей",
+        options:["1 заняття - 40  хвилин", " 8 занять/місяць", "Безліч матеріалів", " Час занять узгоджуємо "],
+        price:"4000",
         isEvenNumber:false
     }
 ]

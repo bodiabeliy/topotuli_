@@ -19,7 +19,7 @@ const LanguageBanner = ({bannerImage, occupation, navLink}:any) => {
         <div className="bannerTitle pl-0 sm:max-w-auto lg:max-w-[50%]">
          <div className="sm:mt-16 lg:mt-0">
            <p className="sm:text-center font-grotesk lg:text-left sm:text-2xl lg:text-5xl uppercase z-[9999] sm:mt-5 lg:mt-0">
-            Завітай на наші  <span className="font-bold uppercase text-mainYellow"> {occupation}</span> знняття та переконайся сам!
+            Завітай на наші  <span className="font-bold uppercase text-mainYellow"> {occupation}</span> заняття та переконайся сам!
           </p>
          </div>
         
