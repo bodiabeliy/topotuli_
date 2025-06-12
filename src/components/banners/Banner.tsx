@@ -38,7 +38,7 @@ const Banner = () => {
        <div className="sm:hidden lg:block">
          <div className="bannerTitle pl-0">
           <p className="sm:text-center lg:text-left sm:text-2xl lg:text-5xl text-white font-grotesk  z-[9999]">
-          <span className="text-mainYellow">"Веселі топотулі"</span> - початок успіху <br />для вашої дитини!
+          <span className="text-mainYellow">Веселі топотулі</span> - початок успіху <br />для вашої дитини!
           </p>
           
         </div>
